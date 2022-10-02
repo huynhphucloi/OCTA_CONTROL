@@ -1,0 +1,6 @@
+{
+  "name": "Octa Control",
+  "version": 1.21,
+  "description": ["Octa Control Software"],
+  "windows_file_name": "installers/windows/octa_control.exe"
+}
